@@ -1,23 +1,27 @@
 <?php include 'includes/header.php';?>
 <?php include 'includes/navbar.php';?>
-    <div class='container'>
-        <div class='row'>
-            <div class='cols-12'>
+<div class='container'>
+    <div class='row'>
+        <div class='cols-12'>
+            <h1>Latin America dance</h1>
+            <div>
                 <div>
-                    <h1>20B1BUM1083 дугаартай Б.Билгүүн</h1>
+                    <img src="zurag/dance.jpg" alt="No result">
                 </div>
-                <div class='text'>
-                    <div>
-                        <img src="family.jpg" class='family' alt="No result">
-                    </div>
-                    <div class='textarea'>
-                        Сайн байна уу, намайг Билгүүн гэдэг. Ам бүл дөрөвүүлээ амьдардаг.
-                    </div>
+                <div>
+                    comment
                 </div>
-                <hr>
-                <a href="index.html">Back home</a>
+            </div>
+            <h2>Морин хуур</h2>
+            <div>
+                <div>
+                    <img src="zurag/morinkhuur.jpg" alt="No result">
+                </div>
+                <div>
+                    comment
+                </div>
             </div>
         </div>
     </div>
-    <link rel='stylesheet' href='style.css'>
+</div>
 <?php include 'includes/footer.php';?>

@@ -1,19 +1,35 @@
-.img-fluid {
-max-width: 100%;
-height: auto;
-object-position: center;
-}
-
 .choose {
     width: 100%;
 }
 
+.img-fluid1 {
+max-width: 100%;
+float: left;
+}
+
 .zurag  {
+    width: 50%;
+}
+
+.main1 {
     width: 50%;
     float: left;
 }
 
-.main {
+.hobby {
+    width: 100%;
+}
+
+.pic {
+    width: 50%;
+}
+
+.img-fluid2 {
+    max-width: 100%;
+    float: left;
+}
+
+.main2 {
     width: 50%;
     float: left;
 }
