@@ -21,3 +21,17 @@ object-position: center;
 .tseej-zurag {
     max-width: 100%;
 }
+
+.text {
+    width: 100%;
+}
+
+.family {
+    width: 50%;
+    float: left;
+}
+
+.textarea{
+    width: 50%;
+    float: left;
+}
