@@ -6,7 +6,7 @@
                 <h1>Latin America dance</h1>
                 <div class='hobby1'>
                     <div class='bujig'>
-                        <img src="zurag/dance.jpg" alt="No result" class='img-fluidb'>
+                        <img src="zurag/dance.jpg" class='img-dance' alt="No result">
                     </div>
                     <div class='about-bujig'>
                         10 жилийн турш бүжгээр хичээллэж байгаа.
@@ -15,8 +15,8 @@
                 </div>
                 <h2>Морин хуур</h2>
                 <div class='hobby2'>
-                    <div>
-                        <img src="zurag/morinkhuur.jpg" alt="No result">
+                    <div> 
+                        <img src="zurag/morinkhuur.jpg" class='img-khuur' alt="No result">
                     </div>
                     <div>
                         10 жилийн турш морин хуур хөгжмөөр хичээллэж байгаа.

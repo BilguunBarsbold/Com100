@@ -52,15 +52,18 @@ float: left;
     float: left;
 }
 
-.hobby1 {
+.bujig {
     width: 100%;
 }
 
-.bujig {
-    width: 50%;
+.img-dance {
+    max-width: 100%;
 }
 
-.imgfluidb {
+.img-khuur {
     max-width: 100%;
-    float: left;
+}
+
+.pic-special {
+    width: 100%;
 }
