@@ -8,11 +8,10 @@
                 <img src="zurag/3.jpg" class='pic-special' alt="No result">
                 <img src="zurag/4.jpg" class='pic-special' alt="No result">
                 <img src="zurag/5.jpg" class='pic-special' alt="No result">
-                <img src="zurag/6.jpg" class='pic-special' alt="No result">
-                <img src="zurag/7.jpg" class='pic-special' alt="No result">
-                <img src="zurag/8.jpg" class='pic-special' alt="No result">
             </div>
         </div>
     </div>
+    <hr>
+    <a href="index.html">Back home</a>
     <link rel="stylesheet" href="styles.css">
 <?php include 'includes/footer.php';?>
