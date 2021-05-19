@@ -29,11 +29,6 @@ float: left;
     float: left;
 }
 
-.main2 {
-    width: 50%;
-    float: left;
-}
-
 .tseej-zurag {
     max-width: 100%;
 }
@@ -49,5 +44,23 @@ float: left;
 
 .textarea{
     width: 50%;
+    float: left;
+}
+
+.main2 {
+    width: 50%;
+    float: left;
+}
+
+.hobby1 {
+    width: 100%;
+}
+
+.bujig {
+    width: 50%;
+}
+
+.imgfluidb {
+    max-width: 100%;
     float: left;
 }

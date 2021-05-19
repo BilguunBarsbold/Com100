@@ -16,23 +16,20 @@
                         <tr>
                             <th scope="row">1</th>
                             <td>Морин хуур</td>
-                            <td>Barsbold</td>
-                            <td>20B1BUM1083</td>
-                            <td>bilguun99859899@gmail.com</td>
+                            <td>10 жил</td>
+                            <td></td>
                         </tr>
                         <tr>
                             <th scope="row">2</th>
                             <td>Latin america бүжиг</td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
+                            <td>10 жил</td>
+                            <td>Нийслэлд тогтмол эхний 2-т ордог, Улсад 4-т орж байсан</td>
                         </tr>
                         <tr>
                             <th scope="row">3</th>
                             <td >Standart бүжиг</td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
+                            <td>6 жил</td>
+                            <td>Нийслэлд тогтмол эхний 2-т ордог, Улсад 4-т орж байсан</td>
                         </tr>
                     </tbody>
                 </table>
